@@ -2,8 +2,8 @@ var imagesData = {
     "simonyi": {
         data: [
             {
-                preview: "images/simonyi.png",
-                image: "images/simonyi.png"
+                preview: "images/Simonyi.png",
+                image: "images/Simonyi.png"
             },
             {
                 preview: "images/ac.png",
@@ -30,8 +30,8 @@ var imagesData = {
                 image: "images/kirdev.png"
             },
             {
-                preview: "images/sem.png",
-                image: "images/sem.png"
+                preview: "images/Sem.png",
+                image: "images/Sem.png"
             },
             {
                 preview: "images/sds.png",
