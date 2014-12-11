@@ -2,40 +2,36 @@ var imagesData = {
     "simonyi": {
         data: [
             {
-                preview: "images/simonyi.png",
-                image: "images/simonyi.png"
+                preview: "images/preview/simonyi.png",
+                image: "images/highres/simonyi.ai"
             },
             {
-                preview: "images/ac.png",
-                image: "images/ac.png"
+                preview: "images/preview/ac.png",
+                image: "images/highres/ac.ai"
             },
             {
-                preview: "images/bss.png",
-                image: "images/bss.png"
+                preview: "images/preview/bss.png",
+                image: "images/highres/bss.ai"
             },
             {
-                preview: "images/lego.png",
-                image: "images/lego.png"
+                preview: "images/preview/lego.png",
+                image: "images/highres/lego.ai"
             },
             {
-                preview: "images/kszk.png",
-                image: "images/kszk.png"
+                preview: "images/preview/radio.png",
+                image: "images/highres/HA5KFU.ai"
             },
             {
-                preview: "images/radio.png",
-                image: "images/radio.png"
+                preview: "images/preview/kirdev.png",
+                image: "images/highres/kirdev.ai"
             },
             {
-                preview: "images/kirdev.png",
-                image: "images/kirdev.png"
+                preview: "images/preview/sem.png",
+                image: "images/highres/sem.ai"
             },
             {
-                preview: "images/sem.png",
-                image: "images/sem.png"
-            },
-            {
-                preview: "images/sds.png",
-                image: "images/sds.png"
+                preview: "images/preview/sds.png",
+                image: "images/highres/sds.ai"
             }
         ],
         title: "Simonyi",
@@ -45,28 +41,28 @@ var imagesData = {
     "kulturreszort": {
         data: [
             {
-                preview: "images/bbk.png",
-                image: "images/bbk.png"
+                preview: "images/preview/bbk.png",
+                image: "images/highres/bbk.ai"
             },
             {
-                preview: "images/impulzus.png",
-                image: "images/impulzus.png"
+                preview: "images/preview/impulzus.png",
+                image: "images/highres/impulzus.ai"
             },
             {
-                preview: "images/jatszohaz.png",
-                image: "images/jatszohaz.png"
+                preview: "images/preview/jatszohaz.png",
+                image: "images/highres/jatszohaz.ai"
             },
             {
-                preview: "images/laplace.png",
-                image: "images/laplace.png"
+                preview: "images/preview/laplace.png",
+                image: "images/highres/laplace.ai"
             },
             {
-                preview: "images/mmmk.png",
-                image: "images/mmmk.png"
+                preview: "images/preview/mmmk.png",
+                image: "images/highres/mmmk.ai"
             },
             {
-                preview: "images/silentio.png",
-                image: "images/silentio.png"
+                preview: "images/preview/silentio.png",
+                image: "images/highres/silentio.ai"
             }
         ],
         title: "Kultúrreszort",
@@ -76,12 +72,12 @@ var imagesData = {
     "sportreszort": {
         data: [
             {
-                preview: "images/dsk.png",
-                image: "images/dsk.png"
+                preview: "images/preview/dsk.png",
+                image: "images/highres/dsk.ai"
             },
             {
-                preview: "images/csocso.png",
-                image: "images/csocso.png"
+                preview: "images/preview/csocso.png",
+                image: "images/highres/csocso.ai"
             }
         ],
         title: "Sportreszort",
@@ -91,40 +87,40 @@ var imagesData = {
     "szolgaltatoreszort": {
         data: [
             {
-                preview: "images/americano.png",
-                image: "images/americano.png"
+                preview: "images/preview/americano.png",
+                image: "images/highres/americano.ai"
             },
             {
-                preview: "images/pizzasch.png",
-                image: "images/pizzasch.png"
+                preview: "images/preview/pizzasch.png",
+                image: "images/highres/pizzasch.ai"
             },
             {
-                preview: "images/foodex.png",
-                image: "images/foodex.png"
+                preview: "images/preview/foodex.png",
+                image: "images/highres/foodex.ai"
             },
             {
-                preview: "images/palacsintazo.png",
-                image: "images/palacsintazo.png"
+                preview: "images/preview/palacsintazo.png",
+                image: "images/highres/palacsintazo.ai"
             },
             {
-                preview: "images/pulcsi.png",
-                image: "images/pulcsi.png"
+                preview: "images/preview/pulcsi.png",
+                image: "images/highres/pulcsi.ai"
             },
             {
-                preview: "images/szauna.png",
-                image: "images/szauna.png"
+                preview: "images/preview/szauna.png",
+                image: "images/highres/szauna.ai"
             },
             {
-                preview: "images/vodor.png",
-                image: "images/vodor.png"
+                preview: "images/preview/vodor.png",
+                image: "images/highres/vodor.ai"
             },
             {
-                preview: "images/wtf.png",
-                image: "images/wtf.png"
+                preview: "images/preview/wtf.png",
+                image: "images/highres/wtf.ai"
             },
             {
-                preview: "images/kakas.png",
-                image: "images/kakas.png"
+                preview: "images/preview/kakas.png",
+                image: "images/highres/kakas.ai"
             }
         ],
         title: "Szolgáltatóreszort",
@@ -134,20 +130,20 @@ var imagesData = {
     "bulisreszort": {
         data: [
             {
-                preview: "images/cc.png",
-                image: "images/cc.png"
+                preview: "images/preview/cc.png",
+                image: "images/highres/cc.ai"
             },
             {
-                preview: "images/lanosch.png",
-                image: "images/lanosch.png"
+                preview: "images/preview/lanosch.png",
+                image: "images/highres/lanosch.ai"
             },
             {
-                preview: "images/parkett.png",
-                image: "images/parkett.png"
+                preview: "images/preview/parkett.png",
+                image: "images/highres/parkett.ai"
             },
             {
-                preview: "images/szakest.png",
-                image: "images/szakest.png"
+                preview: "images/preview/szakest.png",
+                image: "images/highres/szakest.ai"
             }
         ],
         title: "Bulisreszort",
@@ -157,20 +153,20 @@ var imagesData = {
     "egyeb": {
         data: [
             {
-                preview: "images/sch.png",
-                image: "images/sch.png"
+                preview: "images/preview/sch.png",
+                image: "images/highres/sch.ai"
             },
             {
-                preview: "images/iskolaszovetkezet.png",
-                image: "images/iskolaszovetkezet.png"
+                preview: "images/preview/iskolaszovetkezet.png",
+                image: "images/highres/iskolaszovetkezet.ai"
             },
             {
-                preview: "images/bazis.png",
-                image: "images/bazis.png"
+                preview: "images/preview/bazis.png",
+                image: "images/highres/bazis.ai"
             },
             {
-                preview: "images/kfb.png",
-                image: "images/kfb.png"
+                preview: "images/preview/kfb.png",
+                image: "images/highres/kfb.ai"
             }
         ],
         title: "Egyéb",
